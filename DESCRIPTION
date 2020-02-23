@@ -1,0 +1,14 @@
+Package: lassoLQA
+Type: Package
+Title: An implementation of lasso in linear regression 
+Version: 0.1.0
+Author: Mengyu Li
+Maintainer: Mengyu Li <bnulmy@163.com>
+Description: The lassoLQA package uses the local quardratic approximation (LQA) method to solve the problem of the least absolutle shrinkage and selection operator (lasso) in linear regression.
+Depends: R (>= 3.1.0)
+Encoding: UTF-8
+License: GPL-2
+LazyData: ture
+RoxygenNote: 7.0.2
+Suggests: 
+    testthat (>= 2.1.0)
